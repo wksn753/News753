@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Animated.Splash" parent="Theme.News753">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="postSplashScreenTheme">@style/Theme.News753</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/avd_753</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+    </style>
+</resources>
